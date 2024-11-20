@@ -4,7 +4,7 @@ import Navbar from './components/Navbar.vue';
 
 <template>
   <Navbar />
-  <router-view style="z-index: -1;"/>
+  <router-view/>
 </template>
 
 <style scoped>

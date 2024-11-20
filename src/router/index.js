@@ -6,7 +6,7 @@ import Reception      from "../pages/Reception.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/wedding-asif-tania",
     name: "Landing",
     component: Landing,
   },
