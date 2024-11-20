@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 900;
+src: url('./assets/fonts/Montserrat-Black.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 700;
+src: url('./assets/fonts/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 800;
+src: url('./assets/fonts/Montserrat-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 200;
+src: url('./assets/fonts/Montserrat-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 300;
+src: url('./assets/fonts/Montserrat-Light.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 500;
+src: url('./assets/fonts/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 400;
+src: url('./assets/fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 600;
+src: url('./assets/fonts/Montserrat-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Montserrat';
+font-weight: 100;
+src: url('./assets/fonts/Montserrat-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    src: url('./assets/fonts/Montserrat-Bold.ttf') format('truetype');
+}
+    
+    
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 300;
+    src: url('./assets/fonts/Quicksand-Light.ttf') format('truetype');
+}
+    
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 500;
+    src: url('./assets/fonts/Quicksand-Medium.ttf') format('truetype');
+}
+    
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 400;
+    src: url('./assets/fonts/Quicksand-Regular.ttf') format('truetype');
+}
+    
+@font-face {
+    font-family: 'Quicksand';
+    font-weight: 600;
+    src: url('./assets/fonts/Quicksand-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Madina';
+    font-weight: 100;
+    src: url('./assets/fonts/Madina.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sabatons';
+    font-weight: 100;
+    src: url('./assets/fonts/Sabatons.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'CinzelDecorative';
+    font-weight: 900;
+    src: url('./assets/fonts/CinzelDecorative-Black.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CinzelDecorative';
+    font-weight: 700;
+    src: url('./assets/fonts/CinzelDecorative-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CinzelDecorative';
+    font-weight: 400;
+    src: url('./assets/fonts/CinzelDecorative-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Austein';
+    font-weight: 200;
+    src: url('./assets/fonts/Austein.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cascadia';
+    font-weight: 200;
+    src: url('./assets/fonts/Cascadia.ttf') format('truetype');
+}
