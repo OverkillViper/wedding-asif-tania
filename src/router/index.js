@@ -6,22 +6,22 @@ import Reception      from "../pages/Reception.vue";
 
 const routes = [
   {
-    path: "/wedding-asif-tania",
+    path: "/wedding-asif-tania/invitation",
     name: "Landing",
     component: Landing,
   },
   {
-    path: "/bride-and-groom",
+    path: "/wedding-asif-tania/bride-and-groom",
     name: "BrideAndGroom",
     component: BrideAndGroom,
   },
   {
-    path: "/wedding",
+    path: "/wedding-asif-tania/wedding",
     name: "Wedding",
     component: Wedding,
   },
   {
-    path: "/reception",
+    path: "/wedding-asif-tania/reception",
     name: "Reception",
     component: Reception,
   },
