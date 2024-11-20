@@ -15,7 +15,7 @@
                         <a href="https://softzino.com/" class="hover:text-[#6f473d] transition">Softzino Technologies</a>
                     </div>
                 </div>
-                <div class="mt-6 md:mt-0 md:w-1/2 text-center md:text-start-">
+                <div class="mt-6 md:mt-0 md:w-1/2 text-center md:text-start">
                     <div class="font-austein text-3xl 2xl:text-4xl text-[#6f473d]">The Groom</div>
                     <hr class="my-2">
                     <div class="font-cinzel text-3xl 2xl:text-4xl text-[#301e1a]">Md. Asif Imran Khan</div>
