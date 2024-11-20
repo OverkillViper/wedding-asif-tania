@@ -2,8 +2,8 @@
   "name": "wedding-asif-tania",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "homepage": "https://overkillviper.github.io/wedding-asif-tania/",
+  "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
