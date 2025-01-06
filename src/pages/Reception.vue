@@ -9,7 +9,7 @@
     <div class="mx-auto flex flex-col md:flex-row gap-x-6 w-2/3 2xl:w-1/2 mt-8 items-center">
         <div class="md:w-1/2 flex flex-col text-center md:text-end">
             <div class="font-cinzel text-2xl">25 January, 2025</div>
-            <div class="font-cinzel text-lg">Saterday</div>
+            <div class="font-cinzel text-lg">Saturday</div>
         </div>
         <div>&#9672;</div>
         <div class="md:w-1/2 flex md:flex-col text-center md:text-start">
