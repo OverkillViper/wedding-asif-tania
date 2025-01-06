@@ -41,7 +41,7 @@
                     </div>
                     <div class="flex items-center">
                         <span class="material-symbols-outlined mx-2">counter_2</span>
-                        Take Rickshaw to <b>Abdullahpur (BDT 70)</b>
+                        <span>Take Rickshaw to <b>Abdullahpur (BDT 70)</b></span>
                     </div>
                 </div>
 
@@ -57,7 +57,7 @@
                     </div>
                     <div class="flex items-center">
                         <span class="material-symbols-outlined mx-2">counter_3</span>
-                        Take Rickshaw to <span class="font-bold mx-2">Abdullahpur (BDT 20)</span>
+                        <span>Take Rickshaw to <b>Abdullahpur (BDT 20)</b></span>
                     </div>
                 </div>
 
