@@ -21,7 +21,7 @@
                     <div class="font-cinzel text-3xl 2xl:text-4xl text-[#301e1a]">Md. Asif Imran Khan</div>
                     <div class="font-quicksand font-medium mt-4">
                         <span class="font-semibold">RTL Design Engineer</span><br>
-                        Silicon Engineering<br>
+                        Silicon Engineering Divison<br>
                         <a href="https://www.ulkasemi.com/" class="hover:text-[#6f473d] transition">Ulkasemi Pvt. Limited</a>
                     </div>
                 </div>
