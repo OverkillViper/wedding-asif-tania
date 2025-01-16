@@ -22,14 +22,14 @@
         <img src="../assets/images/top_border.png" alt="top_border" class="w-72 mb-4">
         <div class="font-quicksand font-medium">The Venue</div>
         <div class="text-2xl 2xl:text-3xl font-montserrat font-semibold text-[#301e1a]">Polwel Convention Center</div>
-        <div class="font-quicksand font-medium text-sm">Blue Moon Hall</div>
+        <div class="font-quicksand font-medium text-sm">Blue Moon Hall (Level 8)</div>
         <img src="../assets/images/bottom_border.png" alt="top_border" class="w-72 mt-4">
     </div>
 
     <div class="flex flex-col md:flex-row items-center md:items-start mx-auto w-3/4 2xl:w-1/2 mt-8 gap-6 mb-8">
         <div class="md:w-1/2 flex flex-col items-center md:items-start">
             <div class="flex items-center font-quicksand font-semibold"><span class="material-symbols-outlined me-2">location_on</span>Address</div>
-            <div class="font-quicksand text-lg mt-2 text-center md:text-start">Polwel Carnation, Dhaka - Mymensingh Hwy, Dhaka 1230</div>
+            <div class="font-quicksand text-lg mt-2 text-center md:text-start">Plot # 9/B, (Level-08), Sector-8, Near Abdullahpur, Uttara, Dhaka, 1230</div>
             
             <div class="flex items-center font-quicksand font-semibold mt-8"><span class="material-symbols-outlined me-2">directions_car</span>How to reach</div>
             <div>
