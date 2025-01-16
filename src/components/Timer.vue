@@ -1,7 +1,7 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 
-const targetDate = new Date('2025-01-24T00:00:00').getTime();
+const targetDate = new Date('2025-01-25T00:00:00').getTime();
 
 const days = ref(0);
 const dayTens = ref('0');
