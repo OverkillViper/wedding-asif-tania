@@ -21,13 +21,6 @@ function toggleActive() {
         Bride & Groom
       </router-link>
     </li>
-    <! --
-    <li class="mx-4 text-ash-900 text-sm">
-      <router-link :to="{ name: 'Wedding' }">
-        Wedding
-      </router-link>
-    </li>
-    -->
     <li class="mx-4 text-ash-900 text-sm">
       <router-link :to="{ name: 'Reception' }">
         Reception
